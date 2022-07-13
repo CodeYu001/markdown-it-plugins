@@ -62,9 +62,6 @@ export default function titledCode(md: MarkdownIt) {
             : [];
 
          const code = lines.slice(1, -1);
-         console.log('lines', lines);
-         console.log('code', code);
-         console.log('hl', highlightedLines);
 
          return [
             lines[0],
