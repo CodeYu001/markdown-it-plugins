@@ -22,7 +22,7 @@
       "url": "git+https://github.com/jwevans21/markdown-it-plugins.git"
    },
    "scripts": {
-      "tsc": "tsc",
+      "build": "tsc",
       "test": "node __tests__/render.spec.js"
    },
    "bugs": {
