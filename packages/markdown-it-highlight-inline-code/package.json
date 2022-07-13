@@ -1,6 +1,6 @@
 {
    "name": "@jwevans/markdown-it-highlight-inline-code",
-   "version": "0.1.1",
+   "version": "0.1.2",
    "description": "Adds syntax highlighting to inline code blocks",
    "author": "Jacob Evans <jacob@jwevans.dev> (https://jwevans.dev/)",
    "homepage": "https://github.com/jwevans21/markdown-it-plugins#readme",

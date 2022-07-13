@@ -1,6 +1,6 @@
 {
    "name": "@jwevans/markdown-it-code-block-line-numbers",
-   "version": "0.1.1",
+   "version": "0.1.2",
    "description": "Adds optional line numbers and line highlighting to fenced code blocks in Markdown-It",
    "author": "Jacob Evans <jacob@jwevans.dev> (https://jwevans.dev/)",
    "homepage": "https://github.com/jwevans21/markdown-it-plugins#readme",
