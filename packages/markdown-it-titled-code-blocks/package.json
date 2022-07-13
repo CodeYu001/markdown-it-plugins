@@ -1,7 +1,7 @@
 {
    "name": "@jwevans/markdown-it-titled-code-blocks",
    "version": "0.1.1",
-   "description": "> TODO: description",
+   "description": "Adds support for titled code blocks in Markdown-It",
    "author": "Jacob Evans <jacob@jwevans.dev> (https://jwevans.dev/)",
    "homepage": "https://github.com/jwevans21/markdown-it-plugins#readme",
    "license": "MIT",
