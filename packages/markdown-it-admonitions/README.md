@@ -14,6 +14,6 @@ The content of this _block_ will be rendered as a warning.
 
 # Types of Admonitions
 
-See [Material fo MkDocs](https://squidfunk.github.io/mkdocs-material/reference/admonitions/)
+See [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/admonitions/)
 
 Bring your own styles

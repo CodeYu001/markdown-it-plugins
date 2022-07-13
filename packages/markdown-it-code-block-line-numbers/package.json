@@ -1,7 +1,7 @@
 {
-   "name": "@jwevans/markdown-it-admonitions",
+   "name": "@jwevans/markdown-it-code-block-line-numbers",
    "version": "0.0.0",
-   "description": "Adds admonition blocks to Markdown-It",
+   "description": "> TODO: description",
    "author": "Jacob Evans <jacob@jwevans.dev> (https://jwevans.dev/)",
    "homepage": "https://github.com/jwevans21/markdown-it-plugins#readme",
    "license": "MIT",

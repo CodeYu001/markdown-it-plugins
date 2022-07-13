@@ -1,9 +1,9 @@
 const MarkdownIt = require('markdown-it');
-const admonition = require('..').default;
+const plugin = require('..').default;
 
 const md = new MarkdownIt();
 
-md.use(admonition);
+md.use(plugin);
 
 const testMarkdown = [
    '',
