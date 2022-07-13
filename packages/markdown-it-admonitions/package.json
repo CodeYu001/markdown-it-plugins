@@ -1,6 +1,6 @@
 {
    "name": "@jwevans/markdown-it-admonitions",
-   "version": "0.1.0",
+   "version": "0.1.1",
    "description": "Adds admonition blocks to Markdown-It",
    "author": "Jacob Evans <jacob@jwevans.dev> (https://jwevans.dev/)",
    "homepage": "https://github.com/jwevans21/markdown-it-plugins#readme",
